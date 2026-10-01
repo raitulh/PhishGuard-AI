@@ -1,0 +1,1 @@
+export default function Privacy() { return <main className="app-shell"><section className="app-main"><div className="kicker">PRIVACY</div><h1>Minimize what you keep.</h1><p>PhishGuard stores structured scan evidence and hashes for deduplication in the MVP. Production retention controls and deletion workflows are part of the authenticated workspace.</p></section></main> }

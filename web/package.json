@@ -1,0 +1,21 @@
+{
+    "name": "phishguard-web",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@types/node": "^22.10.5",
+        "@types/react": "^19.0.3",
+        "@types/react-dom": "^19.0.2",
+        "lucide-react": "^0.468.0",
+        "next": "^15.1.4",
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0",
+        "typescript": "^5.7.2"
+    },
+    "devDependencies": {}
+}

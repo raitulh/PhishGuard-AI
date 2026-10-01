@@ -1,0 +1,1 @@
+export default function Terms() { return <main className="app-shell"><section className="app-main"><div className="kicker">TERMS</div><h1>Use the signal responsibly.</h1><p>PhishGuard provides observed risk signals, not guarantees. Verify consequential decisions through trusted channels.</p></section></main> }

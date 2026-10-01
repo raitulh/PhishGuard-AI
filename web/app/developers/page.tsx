@@ -1,0 +1,1 @@
+export default function Developers() { return <main className="app-shell"><section className="app-main"><div className="kicker">DEVELOPERS</div><h1>Build with threat context.</h1><pre className="mono">{`POST /api/v1/analyze\nGET /health`}</pre><p>API keys, scoped access, and MCP tools are planned as the developer platform matures.</p></section></main> }

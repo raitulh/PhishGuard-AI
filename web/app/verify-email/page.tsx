@@ -1,0 +1,1 @@
+export default function VerifyEmail() { return <main className="app-shell"><section className="app-main" style={{ maxWidth: 520 }}><div className="kicker">VERIFY EMAIL</div><h1>Check your inbox.</h1><p>Verification is required before protected workspace access is enabled.</p></section></main> }

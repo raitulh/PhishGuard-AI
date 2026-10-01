@@ -1,0 +1,1 @@
+export default function Security() { return <main className="app-shell"><section className="app-main"><div className="kicker">SECURITY</div><h1>Evidence with boundaries.</h1><p>Provider failures are explicit, submitted content is treated as untrusted data, private destinations are blocked before outbound checks, and raw messages are not stored by default.</p></section></main> }
